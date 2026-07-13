@@ -1,0 +1,6 @@
+{
+  "name": "Smart Gas Monitor",
+  "description": "IoT Gas Consumption Monitoring & Safety Dashboard using MPXV7002DP pressure differential sensor and MQ-2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
